@@ -1,0 +1,1001 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "_flutterfire_internals",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/_flutterfire_internals-1.3.35",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "ansicolor",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/ansicolor-2.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "archive",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/archive-3.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "asn1lib",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/asn1lib-1.5.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "audioplayers",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/audioplayers-5.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "audioplayers_android",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/audioplayers_android-4.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "audioplayers_darwin",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/audioplayers_darwin-5.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "audioplayers_linux",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/audioplayers_linux-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "audioplayers_platform_interface",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/audioplayers_platform_interface-6.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "audioplayers_web",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/audioplayers_web-4.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "audioplayers_windows",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/audioplayers_windows-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "back_button_interceptor",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/back_button_interceptor-7.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "better_player",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/better_player-0.0.84",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "black_hole_flutter",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/black_hole_flutter-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/boolean_selector-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "checked_yaml",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/checked_yaml-2.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "cli_util",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/cli_util-0.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.18.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "color_models",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/color_models-1.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/convert-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "csslib",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/csslib-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "cupertino_icons",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "dbus",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/dbus-0.7.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "decimal",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/decimal-2.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "device_info_plus",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/device_info_plus-11.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "device_info_plus_platform_interface",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/device_info_plus_platform_interface-7.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "encrypt",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/encrypt-5.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "fake_async",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/file-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "firebase_analytics",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_analytics-10.10.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_analytics_platform_interface",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_analytics_platform_interface-3.10.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_analytics_web",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_analytics_web-0.5.7+7",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_auth",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth-4.16.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_auth_platform_interface",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_platform_interface-7.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_auth_web",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_web-5.8.13",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_core",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core-2.32.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core_platform_interface-5.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core_web-2.18.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "firebase_crashlytics",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_crashlytics-3.5.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_crashlytics_platform_interface",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_crashlytics_platform_interface-3.6.35",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_messaging",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging-14.7.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_messaging_platform_interface",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging_platform_interface-4.5.37",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_messaging_web",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging_web-3.5.18",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/fixnum-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///C:/flutter%20SDK/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "flutter_charts",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_charts-0.5.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "flutter_color_models",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_color_models-1.3.3+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_dynamic_icon",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_dynamic_icon-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_inappwebview",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_inappwebview-6.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_inappwebview_android",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_inappwebview_android-1.0.13",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_inappwebview_internal_annotations",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_inappwebview_internal_annotations-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "flutter_inappwebview_ios",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_inappwebview_ios-1.0.13",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_inappwebview_macos",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_inappwebview_macos-1.0.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_inappwebview_platform_interface",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_inappwebview_platform_interface-1.0.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_inappwebview_web",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_inappwebview_web-1.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_keyboard_visibility",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_keyboard_visibility-6.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_linux",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_keyboard_visibility_linux-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_macos",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_keyboard_visibility_macos-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_platform_interface",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_keyboard_visibility_platform_interface-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_web",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_keyboard_visibility_web-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_windows",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_keyboard_visibility_windows-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_launcher_icons",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_launcher_icons-0.13.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "flutter_native_splash",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_native_splash-2.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_otp_text_field",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_otp_text_field-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "flutter_plugin_android_lifecycle",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.22",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "flutter_screenutil",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_screenutil-5.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_svg",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_svg-2.0.10+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///C:/flutter%20SDK/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///C:/flutter%20SDK/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "flutter_widget_from_html_core",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_widget_from_html_core-0.15.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "get",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/get-4.6.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "get_storage",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/get_storage-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "getwidget",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/getwidget-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "google_fonts",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-4.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "html",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/html-0.15.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/image-4.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.18.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "jiffy",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/jiffy-6.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/json_annotation-4.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "leak_tracker",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_flutter_testing",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_testing",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "list_diff",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/list_diff-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "loader_overlay",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/loader_overlay-4.0.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "loading_animation_widget",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/loading_animation_widget-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "local_auth",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/local_auth-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "local_auth_android",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/local_auth_android-1.0.43",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "local_auth_darwin",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/local_auth_darwin-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "local_auth_platform_interface",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/local_auth_platform_interface-1.0.10",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "local_auth_windows",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/local_auth_windows-1.0.11",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "logger",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/logger-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/logging-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.16+1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.12.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "native_device_orientation",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/native_device_orientation-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "num_utilities",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/num_utilities-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "package_info_plus",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus-8.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "package_info_plus_platform_interface",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus_platform_interface-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "page_transition",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/page_transition-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/path_parsing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_provider",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "path_provider_android",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.10",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "path_provider_foundation",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_foundation-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "path_provider_linux",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_linux-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "path_provider_platform_interface",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_platform_interface-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "path_provider_windows",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_windows-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/pedantic-1.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "percent_indicator",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/percent_indicator-4.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "persistent_bottom_nav_bar",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/persistent_bottom_nav_bar-5.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-6.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "pip_view",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/pip_view-0.9.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/platform-3.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "pointycastle",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/pointycastle-3.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "powers",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/powers-1.0.0+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "rational",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/rational-2.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "shimmer",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/shimmer-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "simple_animations",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/simple_animations-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///C:/flutter%20SDK/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sprintf",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/sprintf-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/stack_trace-1.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/stream_channel-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "supercharged",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/supercharged-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "supercharged_dart",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/supercharged_dart-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "swipeable_page_route",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/swipeable_page_route-0.4.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "syncfusion_flutter_charts",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_charts-23.2.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "syncfusion_flutter_core",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_core-23.2.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "syncfusion_flutter_datagrid",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_datagrid-23.2.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "syncfusion_flutter_gauges",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_gauges-23.2.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/synchronized-3.1.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "tuple",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/tuple-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "universal_io",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/universal_io-2.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/uuid-4.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "vector_graphics",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics-1.1.11+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_codec",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics_codec-1.1.11+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_compiler",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics_compiler-1.1.11+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "visibility_detector",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/visibility_detector-0.4.0+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vm_service",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "wakelock_plus",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock_plus-1.2.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "wakelock_plus_platform_interface",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock_plus_platform_interface-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "web",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/win32-5.5.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "win32_registry",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/win32_registry-1.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "xdg_directories",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/xml-6.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "youtube_player_flutter",
+      "rootUri": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache/hosted/pub.dev/youtube_player_flutter-9.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "app",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    }
+  ],
+  "generated": "2024-11-03T21:11:53.325799Z",
+  "generator": "pub",
+  "generatorVersion": "3.4.0",
+  "flutterRoot": "file:///C:/flutter%20SDK/flutter",
+  "flutterVersion": "3.22.0",
+  "pubCache": "file:///C:/Users/Yazan/AppData/Local/Pub/Cache"
+}

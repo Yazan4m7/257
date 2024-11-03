@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "670476272291",
+    "project_id": "sigma-f8312",
+    "storage_bucket": "sigma-f8312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670476272291:android:bf677d2ffd38af23eff516",
+        "android_client_info": {
+          "package_name": "com.sigma.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670476272291-cqejgpnlj61n3cour8eufqt9ohjq1gr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sigma.app",
+            "certificate_hash": "992e8df3d6343fba783f75db5657e36d024a4589"
+          }
+        },
+        {
+          "client_id": "670476272291-dhh6qsj8uvr4kop6plu42sknk6o9s3fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv7bHWs9dFLT8CXID_ol1J9scGLSoTmjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670476272291-dhh6qsj8uvr4kop6plu42sknk6o9s3fj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "670476272291-8aci2kt6s0nq7n76lg5lou1rnvsltk0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sigma.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
